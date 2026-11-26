@@ -1,0 +1,106 @@
+{
+  "film_id": "F09",
+  "resolved_query": "Border 2",
+  "search_url": "https://api.themoviedb.org/3/search/movie",
+  "details_url": "https://api.themoviedb.org/3/movie/1213898",
+  "fetched_at_utc": "2026-11-26T14:08:17+00:00",
+  "search_response": {
+    "adult": false,
+    "backdrop_path": "/nusKn1Kkjz4NsAKXBswjJVOwMXQ.jpg",
+    "genre_ids": [
+      28,
+      18,
+      10752
+    ],
+    "id": 1213898,
+    "title": "Border 2",
+    "original_language": "hi",
+    "original_title": "बॉर्डर २",
+    "overview": "Three idealistic soldiers in the Indian army, navy and air force face grueling combat conditions in this film set during the 1971 Indo-Pak war.",
+    "popularity": 3.3554,
+    "poster_path": "/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg",
+    "release_date": "2026-01-23",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 38
+  },
+  "details_response": {
+    "adult": false,
+    "backdrop_path": "/nusKn1Kkjz4NsAKXBswjJVOwMXQ.jpg",
+    "belongs_to_collection": {
+      "id": 1370659,
+      "name": "Border Collection",
+      "poster_path": "/9w0hZQMuFDcLFxgOYMHPwDQY2Yu.jpg",
+      "backdrop_path": "/tlpCVYZiweWJPfApeYBdNP1ZGIW.jpg"
+    },
+    "budget": 33000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10752,
+        "name": "War"
+      }
+    ],
+    "homepage": "",
+    "id": 1213898,
+    "imdb_id": "tt30387012",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "बॉर्डर २",
+    "overview": "Three idealistic soldiers in the Indian army, navy and air force face grueling combat conditions in this film set during the 1971 Indo-Pak war.",
+    "popularity": 3.3554,
+    "poster_path": "/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg",
+    "production_companies": [
+      {
+        "id": 3522,
+        "logo_path": "/d3u51JgEP5KwPfxS13ocqvtzZeX.png",
+        "name": "T-Series",
+        "origin_country": "IN"
+      },
+      {
+        "id": 107387,
+        "logo_path": null,
+        "name": "J.P. Films",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-01-23",
+    "revenue": 21000000,
+    "runtime": 201,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिंदी"
+      },
+      {
+        "english_name": "Punjabi",
+        "iso_639_1": "pa",
+        "name": "ਪੰਜਾਬੀ"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Border 2",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 38
+  }
+}

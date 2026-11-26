@@ -1,0 +1,101 @@
+{
+  "film_id": "F07",
+  "resolved_query": "Toxic",
+  "search_url": "https://api.themoviedb.org/3/search/movie",
+  "details_url": "https://api.themoviedb.org/3/movie/1213243",
+  "fetched_at_utc": "2026-11-26T14:08:03+00:00",
+  "search_response": {
+    "adult": false,
+    "backdrop_path": "/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+    "genre_ids": [
+      28,
+      80,
+      18
+    ],
+    "id": 1213243,
+    "title": "Toxic",
+    "original_language": "kn",
+    "original_title": "ಟಾಕ್ಸಿಕ್",
+    "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
+    "popularity": 12.7003,
+    "poster_path": "/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg",
+    "release_date": "2026-08-26",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.388,
+    "vote_count": 89
+  },
+  "details_response": {
+    "adult": false,
+    "backdrop_path": "/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+    "belongs_to_collection": null,
+    "budget": 60000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 1213243,
+    "imdb_id": "tt27530512",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "kn",
+    "original_title": "ಟಾಕ್ಸಿಕ್",
+    "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
+    "popularity": 12.7003,
+    "poster_path": "/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg",
+    "production_companies": [
+      {
+        "id": 176175,
+        "logo_path": "/qg9zyTZMzZQIfvnd3WZuvKPwXH.png",
+        "name": "KVN Productions",
+        "origin_country": "IN"
+      },
+      {
+        "id": 215476,
+        "logo_path": null,
+        "name": "Monster Mind Creations",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-08-26",
+    "revenue": 3386250,
+    "runtime": 192,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Kannada",
+        "iso_639_1": "kn",
+        "name": "ಕನ್ನಡ"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A fairy tale for grown-ups.",
+    "title": "Toxic",
+    "video": false,
+    "vote_average": 7.388,
+    "vote_count": 89
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "film_id": "F10",
+  "resolved_query": "L2: Empuraan",
+  "search_url": "https://api.themoviedb.org/3/search/movie",
+  "details_url": "https://api.themoviedb.org/3/movie/627336",
+  "fetched_at_utc": "2026-11-26T14:08:19+00:00",
+  "search_response": {
+    "adult": false,
+    "backdrop_path": "/4Lfm6aH9qik1SN9N7hKfwohCdHB.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 627336,
+    "title": "L2: Empuraan",
+    "original_language": "ml",
+    "original_title": "L2: എമ്പുരാൻ",
+    "overview": "Five years after becoming Chief Minister of Kerala, Jathin Ramdas' move to align with communal forces led by Balraj 'Baba' Bajrangi, triggers Stephen Nedumpally aka Khureshi Ab'raam to return with his Man Friday Zayed Masood to save his home state and settle scores.",
+    "popularity": 1.4448,
+    "poster_path": "/rlK1u6zJp8AJ93XX8dgiZVsE5w8.jpg",
+    "release_date": "2025-03-27",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 35
+  },
+  "details_response": {
+    "adult": false,
+    "backdrop_path": "/4Lfm6aH9qik1SN9N7hKfwohCdHB.jpg",
+    "belongs_to_collection": {
+      "id": 935951,
+      "name": "Lucifer Collection",
+      "poster_path": "/dYPWlAZrZjhxRwcpcVXqT6Kbn7M.jpg",
+      "backdrop_path": "/BtoJ19HhI6bhla4725PtyBvmvg.jpg"
+    },
+    "budget": 21035003,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://aashirvadcinemas.com/movies/empuraan",
+    "id": 627336,
+    "imdb_id": "tt10505918",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "ml",
+    "original_title": "L2: എമ്പുരാൻ",
+    "overview": "Five years after becoming Chief Minister of Kerala, Jathin Ramdas' move to align with communal forces led by Balraj 'Baba' Bajrangi, triggers Stephen Nedumpally aka Khureshi Ab'raam to return with his Man Friday Zayed Masood to save his home state and settle scores.",
+    "popularity": 1.4448,
+    "poster_path": "/rlK1u6zJp8AJ93XX8dgiZVsE5w8.jpg",
+    "production_companies": [
+      {
+        "id": 16401,
+        "logo_path": "/khS7G0KzBoCYcLs4xuNjpuZjntR.png",
+        "name": "Aashirvad Cinemas",
+        "origin_country": "IN"
+      },
+      {
+        "id": 35124,
+        "logo_path": "/clz3r0SYNudiGRB10yjvU9ZSgP8.png",
+        "name": "Lyca Productions",
+        "origin_country": "IN"
+      },
+      {
+        "id": 77110,
+        "logo_path": "/aveCRL8JTDHiH8gZWUafwO74WuK.png",
+        "name": "Sree Gokulam Movies",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2025-03-27",
+    "revenue": 30823000,
+    "runtime": 179,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिंदी"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "français"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Malayalam",
+        "iso_639_1": "ml",
+        "name": "മലയാളം"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "L2: Empuraan",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 35
+  }
+}

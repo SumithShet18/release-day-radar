@@ -1,0 +1,4 @@
+film_id,day_index,day_label,date,india_net_cr,source_url,access_date,extraction_note
+F10,2,Fri,2025-03-28,11.1,https://www.sacnilk.com/movie/Lucifer_2_2023,2026-11-26,Sacnilk All Language India net; Fri-Sun calendar window = release Days 2-4; Thu release 2025-03-27
+F10,3,Sat,2025-03-29,13.25,https://www.sacnilk.com/movie/Lucifer_2_2023,2026-11-26,Sacnilk All Language India net; Fri-Sun calendar window = release Days 2-4; Thu release 2025-03-27
+F10,4,Sun,2025-03-30,13.65,https://www.sacnilk.com/movie/Lucifer_2_2023,2026-11-26,Sacnilk All Language India net; Fri-Sun calendar window = release Days 2-4; Thu release 2025-03-27
