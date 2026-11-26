@@ -1,13 +1,13 @@
 # Source register
 
-Generated: 2026-11-26T14:12:08+00:00  
+Generated: 2026-11-26T16:06:04+00:00  
 Total URL accesses logged: **61**
 
 ## Summary
 
 | Source | URLs | First access (UTC) |
 | --- | --- | --- |
-| Project owner roster | 1 | 2026-11-26T14:12:08+00:00 |
+| Project owner roster | 1 | 2026-11-26T16:06:04+00:00 |
 | Sacnilk | 12 | 2026-11-26T14:02:49+00:00 |
 | Sacnilk search API | 12 | 2026-11-26T14:02:49+00:00 |
 | TMDb API | 24 | 2026-11-26T14:07:42+00:00 |
@@ -17,7 +17,7 @@ Total URL accesses logged: **61**
 
 | Source | URL | HTTP | Format | Accessed (UTC) | Step | Terms |
 | --- | --- | --- | --- | --- | --- | --- |
-| Project owner roster | data/raw/films_master.csv | local | CSV | 2026-11-26T14:12:08+00:00 | 00_roster | Internal audited project data; cross-checked against Sacnilk. |
+| Project owner roster | data/raw/films_master.csv | local | CSV | 2026-11-26T16:06:04+00:00 | 00_roster | Internal audited project data; cross-checked against Sacnilk. |
 | Wikipedia | https://en.wikipedia.org/wiki/Dhurandhar:_The_Revenge | 200 | HTML | 2026-11-26T13:59:06+00:00 | 01_wiki | CC BY-SA 4.0; attribution required; one request per 1.5 s. |
 | Wikipedia | https://en.wikipedia.org/wiki/Coolie_(2025_film) | 200 | HTML | 2026-11-26T13:59:06+00:00 | 01_wiki | CC BY-SA 4.0; attribution required; one request per 1.5 s. |
 | Wikipedia | https://en.wikipedia.org/wiki/Chhaava | 200 | HTML | 2026-11-26T13:59:06+00:00 | 01_wiki | CC BY-SA 4.0; attribution required; one request per 1.5 s. |
@@ -79,7 +79,7 @@ Total URL accesses logged: **61**
 | TMDb API | https://api.themoviedb.org/3/search/movie?query=Su+From+So | 200 | JSON | 2026-11-26T14:08:24+00:00 | 05_tmdb | TMDb API Terms of Use; attribution required; no endorsement implied. |
 | TMDb API | https://api.themoviedb.org/3/movie/1513656 | 200 | JSON | 2026-11-26T14:08:24+00:00 | 05_tmdb | TMDb API Terms of Use; attribution required; no endorsement implied. |
 
-## Manual inputs still pending
+## Manual inputs
 
-- Google Trends exports: 0/12 present
+- Google Trends exports: 12/12 present (manual browser export; no API URL)
 - YouTube trailer IDs: 0/12 present
