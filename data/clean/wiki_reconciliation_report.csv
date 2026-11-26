@@ -1,0 +1,13 @@
+film_id,canonical_title,roster_budget_cr,wiki_budget_cr,budget_delta_pct,budget_status,roster_ww_gross_cr,wiki_ww_gross_cr,gross_delta_pct,gross_status,overall_status,notes
+F01,Dhurandhar: The Revenge,252.5,252.5,0.0,OK,1813.39,1852.44,2.15,OK,OK,
+F02,Coolie,350.0,375.0,7.14,FLAG_MISMATCH,518.0,594.5,14.77,FLAG_MISMATCH,FLAG_MISMATCH,
+F03,Chhaava,110.0,110.0,0.0,OK,807.91,803.17,-0.59,OK,OK,
+F04,Game Changer,400.0,425.0,6.25,FLAG_MISMATCH,190.0,195.0,2.63,OK,FLAG_MISMATCH,
+F05,Dhurandhar,250.0,252.5,1.0,OK,1307.35,1428.0,9.23,FLAG_MISMATCH,FLAG_MISMATCH,
+F06,Saiyaara,60.0,,,FLAG_MISSING,579.0,,,FLAG_MISSING,FLAG_MISSING,infobox not found; Wikipedia infobox has no parsable Budget; Wikipedia infobox has no parsable Box office
+F07,Toxic,475.0,1000.0,110.53,FLAG_MISMATCH,342.26,330.69,-3.38,OK,FLAG_MISMATCH,
+F08,Sikandar,200.0,200.0,0.0,OK,184.89,176.18,-4.71,OK,OK,
+F09,Border 2,175.0,275.0,57.14,FLAG_MISMATCH,450.19,464.5,3.18,OK,FLAG_MISMATCH,
+F10,L2: Empuraan,162.5,162.5,0.0,OK,266.81,266.54,-0.1,OK,OK,
+F11,Dragon,37.0,37.0,0.0,OK,151.83,150.0,-1.21,OK,OK,
+F12,Su From So,5.5,5.5,0.0,OK,125.0,125.0,0.0,OK,OK,
