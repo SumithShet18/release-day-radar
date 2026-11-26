@@ -3,7 +3,7 @@
   "resolved_query": "Sikandar",
   "search_url": "https://api.themoviedb.org/3/search/movie",
   "details_url": "https://api.themoviedb.org/3/movie/1257960",
-  "fetched_at_utc": "2026-11-26T14:08:11+00:00",
+  "fetched_at_utc": "2026-11-26T16:33:09+00:00",
   "search_response": {
     "adult": false,
     "backdrop_path": "/4MNRH73XmwBK2ycv3qvLpa07O5F.jpg",

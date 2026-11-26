@@ -3,7 +3,7 @@
   "resolved_query": "L2: Empuraan",
   "search_url": "https://api.themoviedb.org/3/search/movie",
   "details_url": "https://api.themoviedb.org/3/movie/627336",
-  "fetched_at_utc": "2026-11-26T14:08:19+00:00",
+  "fetched_at_utc": "2026-11-26T16:33:29+00:00",
   "search_response": {
     "adult": false,
     "backdrop_path": "/4Lfm6aH9qik1SN9N7hKfwohCdHB.jpg",

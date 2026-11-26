@@ -1,0 +1,92 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "N8UHfQcx0GtXOopyGtOXKtiuPoI",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "g4SZs3O9UKQzjfU084Kk73nXeaE",
+      "id": "BKOVzHcjEIo",
+      "snippet": {
+        "publishedAt": "2025-11-18T06:50:49Z",
+        "channelId": "UCcXQd6kHKm0b41x8zMVMmMg",
+        "title": "Dhurandhar Official Trailer | Ranveer Singh | Aditya Dhar | Storming Cinemas Worldwide",
+        "description": "Tum Logon Ke Patakhe Khatm Hogaye Ho Toh Mai Dhamaka Shuru Karu.\n\n#Dhurandhar – Trailer Out Now.\nStorming Cinemas Worldwide!\n\nJio Studios Presents\nA B62 Studios Production\n\nAn Aditya Dhar Film\nDHURANDHAR\n\nWritten, Directed and Produced by: Aditya Dhar\nProduced by: Jyoti Deshpande\nProduced by: Lokesh Dhar\n\nCast:  Ranveer Singh | Sanjay Dutt | Akshaye Khanna | R. Madhavan | Arjun Rampal | Sara Arjun\n\nTrailer Music Scored and composed by Shashwat Sachdev.\nRap written and performed by: Reble, Tsumyoki, Shashwat Sachdev\nHindi vocals: Shahzad Ali\n\nDirector of Photography - Vikash Nowlakha \nEditor - Shivkumar V. Panicker \nCasting Director - Mukesh Chhabra CSA\nExecutive Producer - Rahul H. Gandhi \nCharacter & Prosthetics Designer- Preetisheel Singh Dsouza \nSound Designer- Bishwadeep Chatterjee\nCostume Designer- Smriti Chauhan\nAction Directors - Aejaz Gulab, \nSea Young Oh, Yannick Ben, Ramazan Bulut \nMusic and Background score - Shashwat Sachdev\nLyrics - Irshad Kamil\nChoreographer- Vijay Ganguly \nAdditional Screenplay - Shivkumar V. Panicker and Ojas Gautam \nProduction Designer- Saini S. Johray \nAssociate Director and  Second Unit Director - Rohun Rege \nChief Assistant Director - Sameer Sadhwani\nDirector's Assistant- Ojas Gautam \nCreative Producer- Aarsh Vora \nAssistant Producer- Shweta Vora \nLine Producer- Naseer Ahmed Khan \nResearch Consultant- Aditya Raj Kaul, \nDibya S\nAssociate Editor - Juhii Gopalakishnan\nSound Recordist - Prabhal Pradhan \nPost Producer- Gautmik\nRe recoding mixer- Justin Jose K (CAS)\nVFX Supervisor- Dhruti Ranjan Sahoo \nVfX Studios- Envision VFX, Philm CGI, Resonance Digital \nDI Studio- Prime Focus LTD\nDI Colorist- Ashirwad Hadkar (ISC)\nDigital Agency- White Rivers Media \nPR Agency- Communique Film PR\nMarketing Director- Max Marketing LTD\nTeaser and Trailer editor - Ojas Gautam \nVisual Promotion & Publicity Design- MA&TH\n(Marching Ants & Trigger Happy)\nMusic Label - Saregama \n\n#RanveerSingh #SanjayDutt #AkshayeKhanna #RMadhavan #ArjunRampal #SaraArjun #AdityaDhar @shashwatsachdev  #JioStudios #B62Studios \n \nStay Connected With Us: \n👉Like us on Facebook: https://www.facebook.com/officialjiostudios/ \n👉Follow us on Twitter: https://twitter.com/jiostudios \n👉Follow us on Instagram: https://www.instagram.com/officialjiostudios/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BKOVzHcjEIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BKOVzHcjEIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BKOVzHcjEIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BKOVzHcjEIo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BKOVzHcjEIo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/BKOVzHcjEIo/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "JioStudios",
+        "tags": [
+          "Jio Studios",
+          "Dhurandhar First Look",
+          "dhurandhar ranveer singh",
+          "dhurandhar aditya dhar",
+          "dhurandhar movie",
+          "dhurandhar teaser",
+          "Ranveer singh",
+          "aditya dhar",
+          "dhurandhar 2025 movies",
+          "arjun rampal",
+          "dhurandhar song",
+          "dhurandhar",
+          "dhurandhar hanumankind",
+          "dhurandhar r madhavan",
+          "dhurandhar sanjay dutt",
+          "dhurandhar akshaye khanna",
+          "hanumankind ranveer singh",
+          "dhurandhar sara arjun",
+          "dhurandhar official trailer",
+          "dhurandhar trailer",
+          "dhurandhar trailer launch",
+          "dhurandhar jasmine sandlas"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Dhurandhar Official Trailer | Ranveer Singh | Aditya Dhar | Storming Cinemas Worldwide",
+          "description": "Tum Logon Ke Patakhe Khatm Hogaye Ho Toh Mai Dhamaka Shuru Karu.\n\n#Dhurandhar – Trailer Out Now.\nStorming Cinemas Worldwide!\n\nJio Studios Presents\nA B62 Studios Production\n\nAn Aditya Dhar Film\nDHURANDHAR\n\nWritten, Directed and Produced by: Aditya Dhar\nProduced by: Jyoti Deshpande\nProduced by: Lokesh Dhar\n\nCast:  Ranveer Singh | Sanjay Dutt | Akshaye Khanna | R. Madhavan | Arjun Rampal | Sara Arjun\n\nTrailer Music Scored and composed by Shashwat Sachdev.\nRap written and performed by: Reble, Tsumyoki, Shashwat Sachdev\nHindi vocals: Shahzad Ali\n\nDirector of Photography - Vikash Nowlakha \nEditor - Shivkumar V. Panicker \nCasting Director - Mukesh Chhabra CSA\nExecutive Producer - Rahul H. Gandhi \nCharacter & Prosthetics Designer- Preetisheel Singh Dsouza \nSound Designer- Bishwadeep Chatterjee\nCostume Designer- Smriti Chauhan\nAction Directors - Aejaz Gulab, \nSea Young Oh, Yannick Ben, Ramazan Bulut \nMusic and Background score - Shashwat Sachdev\nLyrics - Irshad Kamil\nChoreographer- Vijay Ganguly \nAdditional Screenplay - Shivkumar V. Panicker and Ojas Gautam \nProduction Designer- Saini S. Johray \nAssociate Director and  Second Unit Director - Rohun Rege \nChief Assistant Director - Sameer Sadhwani\nDirector's Assistant- Ojas Gautam \nCreative Producer- Aarsh Vora \nAssistant Producer- Shweta Vora \nLine Producer- Naseer Ahmed Khan \nResearch Consultant- Aditya Raj Kaul, \nDibya S\nAssociate Editor - Juhii Gopalakishnan\nSound Recordist - Prabhal Pradhan \nPost Producer- Gautmik\nRe recoding mixer- Justin Jose K (CAS)\nVFX Supervisor- Dhruti Ranjan Sahoo \nVfX Studios- Envision VFX, Philm CGI, Resonance Digital \nDI Studio- Prime Focus LTD\nDI Colorist- Ashirwad Hadkar (ISC)\nDigital Agency- White Rivers Media \nPR Agency- Communique Film PR\nMarketing Director- Max Marketing LTD\nTeaser and Trailer editor - Ojas Gautam \nVisual Promotion & Publicity Design- MA&TH\n(Marching Ants & Trigger Happy)\nMusic Label - Saregama \n\n#RanveerSingh #SanjayDutt #AkshayeKhanna #RMadhavan #ArjunRampal #SaraArjun #AdityaDhar @shashwatsachdev  #JioStudios #B62Studios \n \nStay Connected With Us: \n👉Like us on Facebook: https://www.facebook.com/officialjiostudios/ \n👉Follow us on Twitter: https://twitter.com/jiostudios \n👉Follow us on Instagram: https://www.instagram.com/officialjiostudios/"
+        },
+        "defaultAudioLanguage": "hi"
+      },
+      "statistics": {
+        "viewCount": "101972838",
+        "likeCount": "915009",
+        "favoriteCount": "0",
+        "commentCount": "52738"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

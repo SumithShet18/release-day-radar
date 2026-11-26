@@ -3,7 +3,7 @@
   "resolved_query": "Su From So",
   "search_url": "https://api.themoviedb.org/3/search/movie",
   "details_url": "https://api.themoviedb.org/3/movie/1513656",
-  "fetched_at_utc": "2026-11-26T14:08:24+00:00",
+  "fetched_at_utc": "2026-11-26T16:33:35+00:00",
   "search_response": {
     "adult": false,
     "backdrop_path": "/fBnwpACxGkChCTVvWSfwjeKbSPv.jpg",

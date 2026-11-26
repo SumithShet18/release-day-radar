@@ -1,0 +1,13 @@
+film_id,canonical_title,verdict,est_budget_cr,fri_sun_india_net_cr,net_to_budget_ratio,first_7d_comments,first_7d_comment_share_pct
+F06,Saiyaara,Blockbuster,60.0,83.25,1.387,164,0.54
+F01,Dhurandhar: The Revenge,All-Time Blockbuster,252.5,308.57,1.222,230,0.76
+F12,Su From So,All-Time Blockbuster,5.5,6.45,1.173,1053,3.49
+F03,Chhaava,All-Time Blockbuster,110.0,116.5,1.059,239,0.79
+F11,Dragon,Blockbuster,37.0,30.05,0.812,4201,13.94
+F09,Border 2,Blockbuster,175.0,121.0,0.691,4936,16.38
+F05,Dhurandhar,All-Time Blockbuster,250.0,103.0,0.412,163,0.54
+F08,Sikandar,Flop,200.0,74.5,0.372,995,3.3
+F02,Coolie,Hit,350.0,129.5,0.37,3995,13.26
+F10,L2: Empuraan,Hit,162.5,38.0,0.234,3596,11.93
+F04,Game Changer,Disaster,400.0,88.5,0.221,5215,17.31
+F07,Toxic,Disaster,475.0,75.35,0.159,5343,17.73

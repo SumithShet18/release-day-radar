@@ -1,0 +1,13 @@
+film_id,canonical_title,release_day,day1_net_cr,day2_net_cr,day3_net_cr,day3_to_day1_ratio,momentum_profile
+F12,Su From So,Fri,0.78,2.17,3.5,4.49,Strong WOM Grower
+F11,Dragon,Fri,6.5,10.8,12.75,1.96,Strong WOM Grower
+F09,Border 2,Fri,30.0,36.5,54.5,1.82,Strong WOM Grower
+F06,Saiyaara,Fri,21.5,26.0,35.75,1.66,Strong WOM Grower
+F03,Chhaava,Fri,31.0,37.0,48.5,1.56,Strong WOM Grower
+F05,Dhurandhar,Fri,28.0,32.0,43.0,1.54,Strong WOM Grower
+F01,Dhurandhar: The Revenge,Thu,80.72,113.0,114.85,1.42,Strong WOM Grower
+F10,L2: Empuraan,Thu,11.1,13.25,13.65,1.23,Steady Hold
+F07,Toxic,Wed,27.2,25.15,23.0,0.85,Front-Loaded Drop
+F08,Sikandar,Sun,26.0,29.0,19.5,0.75,Front-Loaded Drop
+F02,Coolie,Thu,54.75,39.5,35.25,0.64,Front-Loaded Drop
+F04,Game Changer,Fri,51.0,21.6,15.9,0.31,Front-Loaded Drop
