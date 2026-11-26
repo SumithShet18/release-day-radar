@@ -1,13 +1,13 @@
 film_id,canonical_title,language,release_date,release_day,est_budget_cr,fri_sun_india_net_cr,lifetime_ww_gross_cr,verdict,trailer_channel,youtube_video_id,tmdb_id,wikipedia_url
-F01,Dhurandhar: The Revenge,Hindi,2026-03-19,Thu,252.5,308.57,1813.39,All-Time Blockbuster,Jio Studios,TBD,TBD,https://en.wikipedia.org/wiki/Dhurandhar:_The_Revenge
-F02,Coolie,Tamil,2025-08-14,Thu,350.0,129.50,518.00,Hit,Sun TV,TBD,TBD,https://en.wikipedia.org/wiki/Coolie_(2025_film)
-F03,Chhaava,Hindi,2025-02-14,Fri,110.0,116.50,807.91,All-Time Blockbuster,Maddock Films,TBD,TBD,https://en.wikipedia.org/wiki/Chhaava
-F04,Game Changer,Telugu,2025-01-10,Fri,400.0,89.60,190.00,Disaster,Dil Raju / Zee Studios,TBD,TBD,https://en.wikipedia.org/wiki/Game_Changer_(film)
-F05,Dhurandhar,Hindi,2025-12-05,Fri,250.0,103.00,1307.35,All-Time Blockbuster,Jio Studios,TBD,TBD,https://en.wikipedia.org/wiki/Dhurandhar
-F06,Saiyaara,Hindi,2025-07-18,Fri,60.0,83.25,579.00,Blockbuster,Yash Raj Films,TBD,TBD,https://en.wikipedia.org/wiki/Saiyaara
-F07,Toxic,Kannada,2026-08-26,Wed,475.0,74.50,342.26,Disaster,KVN Productions,TBD,TBD,https://en.wikipedia.org/wiki/Toxic_(2026_film)
-F08,Sikandar,Hindi,2025-03-30,Sun,200.0,74.50,184.89,Flop,NadiadwalaGrandson,TBD,TBD,https://en.wikipedia.org/wiki/Sikandar_(2025_film)
-F09,Border 2,Hindi,2026-01-23,Fri,175.0,121.00,450.19,Blockbuster,T-Series,TBD,TBD,https://en.wikipedia.org/wiki/Border_2
-F10,L2: Empuraan,Malayalam,2025-03-27,Thu,162.5,38.00,266.81,Hit,Aashirvad Cinemas,TBD,TBD,https://en.wikipedia.org/wiki/L2:_Empuraan
-F11,Dragon,Tamil,2025-02-21,Fri,37.0,30.05,151.83,Blockbuster,AGS Entertainment,TBD,TBD,https://en.wikipedia.org/wiki/Dragon_(2025_film)
-F12,Su From So,Kannada,2025-07-25,Fri,5.5,6.45,125.00,All-Time Blockbuster,Lighter Buddha Films,TBD,TBD,https://en.wikipedia.org/wiki/Su_From_So
+F01,Dhurandhar: The Revenge,Hindi,2026-03-19,Thu,252.5,308.57,1813.39,All-Time Blockbuster,Jio Studios,TBD,1582770,https://en.wikipedia.org/wiki/Dhurandhar:_The_Revenge
+F02,Coolie,Tamil,2025-08-14,Thu,350.0,129.50,518.00,Hit,Sun TV,TBD,1153399,https://en.wikipedia.org/wiki/Coolie_(2025_film)
+F03,Chhaava,Hindi,2025-02-14,Fri,110.0,116.50,807.91,All-Time Blockbuster,Maddock Films,TBD,1196943,https://en.wikipedia.org/wiki/Chhaava
+F04,Game Changer,Telugu,2025-01-10,Fri,400.0,89.60,190.00,Disaster,Dil Raju / Zee Studios,TBD,811944,https://en.wikipedia.org/wiki/Game_Changer_(film)
+F05,Dhurandhar,Hindi,2025-12-05,Fri,250.0,103.00,1307.35,All-Time Blockbuster,Jio Studios,TBD,1291608,https://en.wikipedia.org/wiki/Dhurandhar
+F06,Saiyaara,Hindi,2025-07-18,Fri,60.0,83.25,579.00,Blockbuster,Yash Raj Films,TBD,1241634,https://en.wikipedia.org/wiki/Saiyaara
+F07,Toxic,Kannada,2026-08-26,Wed,475.0,74.50,342.26,Disaster,KVN Productions,TBD,1213243,https://en.wikipedia.org/wiki/Toxic_(2026_film)
+F08,Sikandar,Hindi,2025-03-30,Sun,200.0,74.50,184.89,Flop,NadiadwalaGrandson,TBD,1257960,https://en.wikipedia.org/wiki/Sikandar_(2025_film)
+F09,Border 2,Hindi,2026-01-23,Fri,175.0,121.00,450.19,Blockbuster,T-Series,TBD,1213898,https://en.wikipedia.org/wiki/Border_2
+F10,L2: Empuraan,Malayalam,2025-03-27,Thu,162.5,38.00,266.81,Hit,Aashirvad Cinemas,TBD,627336,https://en.wikipedia.org/wiki/L2:_Empuraan
+F11,Dragon,Tamil,2025-02-21,Fri,37.0,30.05,151.83,Blockbuster,AGS Entertainment,TBD,1273049,https://en.wikipedia.org/wiki/Dragon_(2025_film)
+F12,Su From So,Kannada,2025-07-25,Fri,5.5,6.45,125.00,All-Time Blockbuster,Lighter Buddha Films,TBD,1513656,https://en.wikipedia.org/wiki/Su_From_So

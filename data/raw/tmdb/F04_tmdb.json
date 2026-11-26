@@ -1,0 +1,85 @@
+{
+  "film_id": "F04",
+  "resolved_query": "Game Changer",
+  "search_url": "https://api.themoviedb.org/3/search/movie",
+  "details_url": "https://api.themoviedb.org/3/movie/811944",
+  "fetched_at_utc": "2026-11-26T14:07:49+00:00",
+  "search_response": {
+    "adult": false,
+    "backdrop_path": "/aBw406SvghTKV6CTK9t84Bo9Xik.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 811944,
+    "title": "Game Changer",
+    "original_language": "te",
+    "original_title": "గేమ్‌ ఛేంజర్‌",
+    "overview": "Ram, a newly appointed district collector, takes charge in a city in Andhra Pradesh and immediately confronts the deeply entrenched corruption and inefficiency plaguing the government. Determined to bring reforms, he initiates sweeping changes, sparking a fierce conflict with a powerful state Minister.",
+    "popularity": 1.7936,
+    "poster_path": "/qtOGsZoLW7QceqKmsOy5nSM6Aik.jpg",
+    "release_date": "2025-01-09",
+    "softcore": false,
+    "video": false,
+    "vote_average": 4.9,
+    "vote_count": 36
+  },
+  "details_response": {
+    "adult": false,
+    "backdrop_path": "/aBw406SvghTKV6CTK9t84Bo9Xik.jpg",
+    "belongs_to_collection": null,
+    "budget": 47000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 811944,
+    "imdb_id": "tt14209618",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "te",
+    "original_title": "గేమ్‌ ఛేంజర్‌",
+    "overview": "Ram, a newly appointed district collector, takes charge in a city in Andhra Pradesh and immediately confronts the deeply entrenched corruption and inefficiency plaguing the government. Determined to bring reforms, he initiates sweeping changes, sparking a fierce conflict with a powerful state Minister.",
+    "popularity": 1.7936,
+    "poster_path": "/qtOGsZoLW7QceqKmsOy5nSM6Aik.jpg",
+    "production_companies": [
+      {
+        "id": 14464,
+        "logo_path": null,
+        "name": "Sri Venkateswara Creations",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2025-01-09",
+    "revenue": 21915000,
+    "runtime": 164,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Telugu",
+        "iso_639_1": "te",
+        "name": "తెలుగు"
+      }
+    ],
+    "status": "Released",
+    "tagline": "The game is about to change!",
+    "title": "Game Changer",
+    "video": false,
+    "vote_average": 4.9,
+    "vote_count": 36
+  }
+}
