@@ -1,0 +1,4 @@
+film_id,day_index,day_label,date,india_net_cr,source_url,access_date,extraction_note
+F02,2,Fri,2025-08-15,54.75,https://www.sacnilk.com/movie/Coolie_2025,2026-11-26,Sacnilk All Language India net; Fri-Sun calendar window = release Days 2-4; Thu release 2025-08-14
+F02,3,Sat,2025-08-16,39.5,https://www.sacnilk.com/movie/Coolie_2025,2026-11-26,Sacnilk All Language India net; Fri-Sun calendar window = release Days 2-4; Thu release 2025-08-14
+F02,4,Sun,2025-08-17,35.25,https://www.sacnilk.com/movie/Coolie_2025,2026-11-26,Sacnilk All Language India net; Fri-Sun calendar window = release Days 2-4; Thu release 2025-08-14

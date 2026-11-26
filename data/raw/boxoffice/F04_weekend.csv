@@ -1,0 +1,4 @@
+film_id,day_index,day_label,date,india_net_cr,source_url,access_date,extraction_note
+F04,1,Fri,2025-01-10,51.0,https://www.sacnilk.com/movie/RC15_2022,2026-11-26,Sacnilk All Language India net; Fri-Sun; Friday release 2025-01-10 = Days 1-3
+F04,2,Sat,2025-01-11,21.6,https://www.sacnilk.com/movie/RC15_2022,2026-11-26,Sacnilk All Language India net; Fri-Sun; Friday release 2025-01-10 = Days 1-3
+F04,3,Sun,2025-01-12,15.9,https://www.sacnilk.com/movie/RC15_2022,2026-11-26,Sacnilk All Language India net; Fri-Sun; Friday release 2025-01-10 = Days 1-3
