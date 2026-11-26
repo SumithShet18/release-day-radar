@@ -1,0 +1,29 @@
+# Release Day Radar — Python 3.11+
+# Install:  python -m pip install -r requirements.txt
+
+# Core data wrangling
+pandas>=2.2,<3.0
+numpy>=1.26,<3.0
+requests>=2.32,<3.0
+python-dotenv>=1.0,<2.0
+
+# HTML table parsing (Wikipedia box-office pages)
+lxml>=5.2,<7.0
+html5lib>=1.1,<2.0
+
+# Notebooks and charts
+jupyterlab>=4.2,<5.0
+notebook>=7.2,<8.0
+ipykernel>=6.29,<8.0
+matplotlib>=3.9,<4.0
+seaborn>=0.13,<1.0
+
+# Unstructured text / sentiment
+vaderSentiment>=3.3.2,<4.0
+
+# Big data (Phase 3 PySpark job, 50,000+ rows)
+pyspark>=3.5,<5.0
+
+# Relational load (Phase 2 MySQL, 3+ linked tables)
+SQLAlchemy>=2.0,<3.0
+PyMySQL>=1.1,<2.0
