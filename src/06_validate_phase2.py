@@ -82,6 +82,7 @@ def main() -> int:
     daily = pd.read_csv(DAILY, dtype={"film_id": str})
     reconciliation = pd.read_csv(RECONCILIATION, dtype={"film_id": str})
     wiki = pd.read_csv(WIKI, dtype={"film_id": str})
+    trends = pd.read_csv(TRENDS, dtype={"film_id": str})
 
     # 1. Row counts -------------------------------------------------------
     record("Films in master", len(master) == 12, f"{len(master)} rows (expected 12)")
@@ -154,12 +155,73 @@ def main() -> int:
     record("daily india_net_cr dtype float",
            pd.api.types.is_float_dtype(daily["india_net_cr"]), str(daily["india_net_cr"].dtype))
 
-    # 5. Coverage / manual inputs ----------------------------------------
+    # 5. Google Trends ----------------------------------------------------
+    trend_columns = ["film_id", "term", "date", "interest", "source_file"]
+    record(
+        "Trends combined schema",
+        list(trends.columns) == trend_columns,
+        f"{len(trends.columns)} columns",
+    )
+    record("Trends combined non-empty", len(trends) > 0, f"{len(trends)} rows")
+    film_count = trends["film_id"].nunique() if not trends.empty else 0
+    record("Trends films covered", film_count == 12, f"{film_count}/12 films")
+
+    trend_dates = pd.to_datetime(trends["date"], errors="coerce")
+    record(
+        "Trends dates parse",
+        trend_dates.notna().all(),
+        f"{int(trend_dates.isna().sum())} unparsable",
+    )
+    trend_dupes = int(trends.duplicated(["film_id", "date"]).sum())
+    record(
+        "Trends unique film_id+date",
+        trend_dupes == 0,
+        f"{trend_dupes} duplicates",
+    )
+    if trends.empty:
+        record("Trends interest within 0-100", False, "no rows")
+        record("Trends one term per film", False, "no rows")
+        record("Trends >= 60 daily points per film", False, "no rows")
+    else:
+        record(
+            "Trends interest within 0-100",
+            bool(trends["interest"].between(0, 100).all()),
+            f"min={trends['interest'].min():g} max={trends['interest'].max():g}",
+        )
+        terms_per_film = trends.groupby("film_id")["term"].nunique()
+        record(
+            "Trends one term per film",
+            bool((terms_per_film <= 1).all()),
+            f"max={int(terms_per_film.max())} terms",
+        )
+        points_per_film = trends.groupby("film_id").size()
+        record(
+            "Trends >= 60 daily points per film",
+            bool((points_per_film >= 60).all()),
+            f"min={int(points_per_film.min())} points",
+        )
+
+    release_by_film = master.set_index("film_id")["release_date"]
+    uncovered: list[str] = []
+    for film_id, part in trends.groupby("film_id"):
+        dates = pd.to_datetime(part["date"])
+        release = pd.to_datetime(release_by_film.get(film_id), errors="coerce")
+        if pd.isna(release) or not (dates.min() <= release <= dates.max()):
+            uncovered.append(film_id)
+    record(
+        "Trends span covers release date",
+        not uncovered,
+        f"{12 - len(uncovered)}/12 covered"
+        + (f"; missing: {', '.join(uncovered)}" if uncovered else ""),
+        warn=True,
+    )
+
+    # 6. Coverage / manual inputs ----------------------------------------
     tmdb_ok = (master["tmdb_id"].astype(str) != "TBD").sum()
     record("TMDb coverage", tmdb_ok == 12, f"{tmdb_ok}/12 resolved")
     trends_present = len(list((c.RAW / "trends").glob("F*_trends.csv")))
     record("Trends exports present", trends_present == 12,
-           f"{trends_present}/12 awaiting manual export", warn=True)
+           f"{trends_present}/12 exports present", warn=True)
     videos_set = (master["youtube_video_id"].astype(str) != "TBD").sum()
     record("YouTube trailer IDs set", videos_set == 12,
            f"{videos_set}/12 awaiting manual input", warn=True)
@@ -234,9 +296,9 @@ def main() -> int:
         )
     lines += [
         "",
-        "## Manual inputs still pending",
+        "## Manual inputs",
         "",
-        f"- Google Trends exports: {trends_present}/12 present",
+        f"- Google Trends exports: {trends_present}/12 present (manual browser export; no API URL)",
         f"- YouTube trailer IDs: {videos_set}/12 present",
         "",
     ]

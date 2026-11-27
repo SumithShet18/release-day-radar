@@ -1,13 +1,13 @@
 # Source register
 
-Generated: 2026-11-26T16:53:54+00:00  
+Generated: 2026-11-27T06:54:29+00:00  
 Total URL accesses logged: **85**
 
 ## Summary
 
 | Source | URLs | First access (UTC) |
 | --- | --- | --- |
-| Project owner roster | 1 | 2026-11-26T16:53:54+00:00 |
+| Project owner roster | 1 | 2026-11-27T06:54:29+00:00 |
 | Sacnilk | 12 | 2026-11-26T14:02:49+00:00 |
 | Sacnilk search API | 12 | 2026-11-26T14:02:49+00:00 |
 | TMDb API | 24 | 2026-11-26T16:32:38+00:00 |
@@ -18,7 +18,7 @@ Total URL accesses logged: **85**
 
 | Source | URL | HTTP | Format | Accessed (UTC) | Step | Terms |
 | --- | --- | --- | --- | --- | --- | --- |
-| Project owner roster | data/raw/films_master.csv | local | CSV | 2026-11-26T16:53:54+00:00 | 00_roster | Internal audited project data; cross-checked against Sacnilk. |
+| Project owner roster | data/raw/films_master.csv | local | CSV | 2026-11-27T06:54:29+00:00 | 00_roster | Internal audited project data; cross-checked against Sacnilk. |
 | Wikipedia | https://en.wikipedia.org/wiki/Dhurandhar:_The_Revenge | 200 | HTML | 2026-11-26T13:59:06+00:00 | 01_wiki | CC BY-SA 4.0; attribution required; one request per 1.5 s. |
 | Wikipedia | https://en.wikipedia.org/wiki/Coolie_(2025_film) | 200 | HTML | 2026-11-26T13:59:06+00:00 | 01_wiki | CC BY-SA 4.0; attribution required; one request per 1.5 s. |
 | Wikipedia | https://en.wikipedia.org/wiki/Chhaava | 200 | HTML | 2026-11-26T13:59:06+00:00 | 01_wiki | CC BY-SA 4.0; attribution required; one request per 1.5 s. |

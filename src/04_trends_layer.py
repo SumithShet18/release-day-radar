@@ -91,7 +91,7 @@ def main() -> int:
         try:
             rows, _ = parse_export(path, film_id)
             combined.extend(rows)
-            print(f"  {film_id}: parsed {len(rows)} weekly points from {path.name}")
+            print(f"  {film_id}: parsed {len(rows)} daily points from {path.name}")
         except Exception as exc:
             errors.append((film_id, str(exc)))
             print(f"  {film_id}: ERROR {exc}")
@@ -101,6 +101,92 @@ def main() -> int:
         frame = frame.sort_values(["film_id", "date"]).reset_index(drop=True)
     out = c.write_csv(frame, OUT)
     print(f"\nWrote {out.relative_to(c.REPO_ROOT)} ({len(frame)} rows)")
+
+    # Coverage audit: row counts, date range, gaps and release-window overlap.
+    coverage: list[dict] = []
+    for _, film in master.iterrows():
+        film_id = film["film_id"]
+        part = frame.loc[frame["film_id"] == film_id]
+        release = c.as_date(film["release_date"])
+        if part.empty:
+            coverage.append(
+                {
+                    "film_id": film_id,
+                    "canonical_title": film["canonical_title"],
+                    "points": 0,
+                    "start": "",
+                    "end": "",
+                    "span_days": 0,
+                    "missing_dates": 0,
+                    "release_date": release.isoformat(),
+                    "release_in_range": False,
+                }
+            )
+            continue
+        dates = pd.to_datetime(part["date"])
+        start, end = dates.min(), dates.max()
+        full = pd.date_range(start, end, freq="D")
+        coverage.append(
+            {
+                "film_id": film_id,
+                "canonical_title": film["canonical_title"],
+                "points": len(part),
+                "start": start.date().isoformat(),
+                "end": end.date().isoformat(),
+                "span_days": (end - start).days + 1,
+                "missing_dates": len(full.difference(dates)),
+                "release_date": release.isoformat(),
+                "release_in_range": start.date() <= release <= end.date(),
+            }
+        )
+
+    print("\nTrends coverage")
+    print("=" * 104)
+    print(
+        f"{'film_id':8} {'points':7} {'start':11} {'end':11} {'span':5} "
+        f"{'gaps':5} {'release':11} in-range"
+    )
+    print("-" * 104)
+    for row in coverage:
+        print(
+            f"{row['film_id']:8} {row['points']:7} {row['start']:11} {row['end']:11} "
+            f"{row['span_days']:5} {row['missing_dates']:5} {row['release_date']:11} "
+            f"{'yes' if row['release_in_range'] else 'NO'}"
+        )
+
+    log_rows: list[dict] = []
+    for row in coverage:
+        if row["points"] == 0:
+            problem = f"{row['film_id']} {row['canonical_title']}: no Trends export found."
+            action = "Excluded the film from the combined table and kept it on the missing-file checklist."
+        elif not row["release_in_range"]:
+            gap_days = (pd.Timestamp(row["release_date"]) - pd.Timestamp(row["end"])).days
+            problem = (
+                f"{row['film_id']} {row['canonical_title']}: Trends export covers "
+                f"{row['start']} to {row['end']} and ends {gap_days} days before release "
+                f"({row['release_date']}); release-window interest is missing."
+            )
+            action = (
+                "Retained the parsed pre-release series and flagged the film for a "
+                "re-export covering the theatrical release window."
+            )
+        else:
+            continue
+        log_rows.append(
+            {
+                "step_id": "STEP_04",
+                "table_affected": "google_trends_combined",
+                "problem_found": problem,
+                "rows_affected": 1,
+                "action_taken": action,
+                "justification": (
+                    "Release-day search interest is a predictor in the study; an export "
+                    "that stops before release cannot represent the outcome window."
+                ),
+            }
+        )
+    if log_rows:
+        c.upsert_cleaning_log("STEP_04", log_rows)
 
     if errors:
         print("\nParse errors:")

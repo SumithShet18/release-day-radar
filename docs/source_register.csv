@@ -1,5 +1,5 @@
 source_name,url,http_status,format,access_timestamp_utc,step,terms_compliance,notes
-Project owner roster,data/raw/films_master.csv,local,CSV,2026-11-26T16:53:54+00:00,00_roster,Internal audited project data; cross-checked against Sacnilk.,12 audited films supplied by the project owner
+Project owner roster,data/raw/films_master.csv,local,CSV,2026-11-27T06:54:29+00:00,00_roster,Internal audited project data; cross-checked against Sacnilk.,12 audited films supplied by the project owner
 Wikipedia,https://en.wikipedia.org/wiki/Dhurandhar:_The_Revenge,200,HTML,2026-11-26T13:59:06+00:00,01_wiki,CC BY-SA 4.0; attribution required; one request per 1.5 s.,snapshot saved
 Wikipedia,https://en.wikipedia.org/wiki/Coolie_(2025_film),200,HTML,2026-11-26T13:59:06+00:00,01_wiki,CC BY-SA 4.0; attribution required; one request per 1.5 s.,snapshot saved
 Wikipedia,https://en.wikipedia.org/wiki/Chhaava,200,HTML,2026-11-26T13:59:06+00:00,01_wiki,CC BY-SA 4.0; attribution required; one request per 1.5 s.,snapshot saved
