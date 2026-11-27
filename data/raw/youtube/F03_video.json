@@ -1,0 +1,86 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "8CDAFAk0yiZpk4oD9TmQYJ-_MQ8",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "_QxPTZ-_i61So6Gb4Z0BnP5l6bk",
+      "id": "77vRyWNqZjM",
+      "snippet": {
+        "publishedAt": "2025-01-22T11:45:04Z",
+        "channelId": "UC-LOdiPoxninevJ0DkleCLg",
+        "title": "Chhaava | Official Trailer | Vicky K | Rashmika M | Akshaye K | Dinesh Vijan | Laxman U | 14th Feb",
+        "description": "Dinesh Vijan and Maddock Films present the trailer of Hindi Cinema's biggest spectacle ever - #Chhaava\n\nYeh Sher Shiva ka Chhaava shor nahin karta, seedha shikaar karta hai! \n\n#ChhaavaTrailer #ChhaavaTrailerOutNow\n\nReleasing in cinemas on 14th February.\n\nMaddock Films presents #Chhaava\n\nCast: Vicky Kaushal, Rashmika Mandanna, Akshaye Khanna, Ashutosh Rana, Divya Dutta, Vineet Kumar Singh, Diana Penty, Santosh Juvekar\nProduced By Dinesh Vijan\nDirected By: Laxman Utekar \nCo-Producers: Sharada Karki Jalota, Pooja Prem Patheja \nOriginal Songs & Background Score : A R Rahman\nAdapted Story, Screenplay By: Laxman Utekar, Rishi Virmani, Kaustubh Savarkar, Unman Bankar, Omkar Mahajan \nDialogue: Rishi Virmani\nDirector Of Photography: Saurabh Goswami (Isc) \nLyrics: Irshad Kamil \nProduction Design: Subrata Chakraborty, Amit Ray \nEditor: Manish Pradhan \nAssociate Producer: Sanjeev Mishra \nAction Director:  Parvez Shaikh, Todor Lazaroy\nCostume Designer: Sheetal Iqbal Sharma \nDirector Of Choreography: Vijay Ganguly \nAssociate Executive Producer: Shraddha S Thorat \nSound Designer: Bishwadeep Chatterjee \nRe-Recording Mixer: Alok De \nChief Assistant Director: Eeshaan Roy \nScript Supervisor: Amod Burande \nAssociate Director (Shoot) : Jatin Bajaj \nArt Directors: Avijit Gosh, Dilip Ganpati Rokade, Rajat Pathare\nLine Producer: Rajdeep Munendra Gupta & Anand Mishra \nCasting By: Anti Casting \nPost Production: The Post Co \nDi: Prime Focus Ltd \nDi Colorist: Ashirwad Hadkar \nProsthetic Designer: Preetisheel Singh D'souza \nMakeup Designer: Shrikant Desai \nVfx: Assemblage Entertainment & Redefine \nVfx Supervisors: Gary Brown & Simon Frame (Assemblage) & Somesh Samit Ghosh (Redefine) \nPublicity Design: Himanshu & Rahul Nanda (H-One) \nMusic On: Sony Music \nAction Storyboard & Title Card Design: Aniket Mitra\nAdditional Marathi Lyrics: Kshitij Patwardhan \nLocal Line Producer (Wai):  Shri Balaji Films Production Wai Kali Kalidas Dongare \n\n\nFollow us on:\nInstagram:    / maddockfilms  \nTwitter:    / maddockfilms  \nFacebook:    / maddockfilms  \nThreads: https://www.threads.net/@maddockfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/77vRyWNqZjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/77vRyWNqZjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/77vRyWNqZjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/77vRyWNqZjM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/77vRyWNqZjM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Maddock Films",
+        "tags": [
+          "chhaava trailer",
+          "chhaava",
+          "chava trailer",
+          "vicky kaushal",
+          "rashmika mandanna",
+          "akshaye khanna",
+          "maddock films",
+          "maddock films new film",
+          "maddock films new trailer",
+          "maddock new trailer",
+          "vicky kaushal new film",
+          "sambhaji maharaj",
+          "chhatrapati shivaji maharaj",
+          "chhatrapati",
+          "new trailers",
+          "new trailers 2025",
+          "chava teaser",
+          "chaava",
+          "chava movie",
+          "chhaava trailer review",
+          "chava trailer review"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Chhaava | Official Trailer | Vicky K | Rashmika M | Akshaye K | Dinesh Vijan | Laxman U | 14th Feb",
+          "description": "Dinesh Vijan and Maddock Films present the trailer of Hindi Cinema's biggest spectacle ever - #Chhaava\n\nYeh Sher Shiva ka Chhaava shor nahin karta, seedha shikaar karta hai! \n\n#ChhaavaTrailer #ChhaavaTrailerOutNow\n\nReleasing in cinemas on 14th February.\n\nMaddock Films presents #Chhaava\n\nCast: Vicky Kaushal, Rashmika Mandanna, Akshaye Khanna, Ashutosh Rana, Divya Dutta, Vineet Kumar Singh, Diana Penty, Santosh Juvekar\nProduced By Dinesh Vijan\nDirected By: Laxman Utekar \nCo-Producers: Sharada Karki Jalota, Pooja Prem Patheja \nOriginal Songs & Background Score : A R Rahman\nAdapted Story, Screenplay By: Laxman Utekar, Rishi Virmani, Kaustubh Savarkar, Unman Bankar, Omkar Mahajan \nDialogue: Rishi Virmani\nDirector Of Photography: Saurabh Goswami (Isc) \nLyrics: Irshad Kamil \nProduction Design: Subrata Chakraborty, Amit Ray \nEditor: Manish Pradhan \nAssociate Producer: Sanjeev Mishra \nAction Director:  Parvez Shaikh, Todor Lazaroy\nCostume Designer: Sheetal Iqbal Sharma \nDirector Of Choreography: Vijay Ganguly \nAssociate Executive Producer: Shraddha S Thorat \nSound Designer: Bishwadeep Chatterjee \nRe-Recording Mixer: Alok De \nChief Assistant Director: Eeshaan Roy \nScript Supervisor: Amod Burande \nAssociate Director (Shoot) : Jatin Bajaj \nArt Directors: Avijit Gosh, Dilip Ganpati Rokade, Rajat Pathare\nLine Producer: Rajdeep Munendra Gupta & Anand Mishra \nCasting By: Anti Casting \nPost Production: The Post Co \nDi: Prime Focus Ltd \nDi Colorist: Ashirwad Hadkar \nProsthetic Designer: Preetisheel Singh D'souza \nMakeup Designer: Shrikant Desai \nVfx: Assemblage Entertainment & Redefine \nVfx Supervisors: Gary Brown & Simon Frame (Assemblage) & Somesh Samit Ghosh (Redefine) \nPublicity Design: Himanshu & Rahul Nanda (H-One) \nMusic On: Sony Music \nAction Storyboard & Title Card Design: Aniket Mitra\nAdditional Marathi Lyrics: Kshitij Patwardhan \nLocal Line Producer (Wai):  Shri Balaji Films Production Wai Kali Kalidas Dongare \n\n\nFollow us on:\nInstagram:    / maddockfilms  \nTwitter:    / maddockfilms  \nFacebook:    / maddockfilms  \nThreads: https://www.threads.net/@maddockfilms"
+        },
+        "defaultAudioLanguage": "en-IN"
+      },
+      "statistics": {
+        "viewCount": "81728975",
+        "likeCount": "1238349",
+        "favoriteCount": "0",
+        "commentCount": "96159"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

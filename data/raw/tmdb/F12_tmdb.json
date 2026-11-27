@@ -1,0 +1,85 @@
+{
+  "film_id": "F12",
+  "resolved_query": "Su From So",
+  "search_url": "https://api.themoviedb.org/3/search/movie",
+  "details_url": "https://api.themoviedb.org/3/movie/1513656",
+  "fetched_at_utc": "2026-11-26T16:33:35+00:00",
+  "search_response": {
+    "adult": false,
+    "backdrop_path": "/fBnwpACxGkChCTVvWSfwjeKbSPv.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "id": 1513656,
+    "title": "Su from So",
+    "original_language": "kn",
+    "original_title": "ಸು ಫ್ರಮ್ ಸೊ",
+    "overview": "In a peaceful village full of joy, laughter, and vibrant life, everything seems perfect—until one day, the devil arrives. What follows is a hilarious chain of events that flips the entire village upside down!",
+    "popularity": 0.6985,
+    "poster_path": "/eFI5DOq5b9D2vitCW7EY8RXxygf.jpg",
+    "release_date": "2025-07-25",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.444,
+    "vote_count": 27
+  },
+  "details_response": {
+    "adult": false,
+    "backdrop_path": "/fBnwpACxGkChCTVvWSfwjeKbSPv.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 27,
+        "name": "Horror"
+      }
+    ],
+    "homepage": "",
+    "id": 1513656,
+    "imdb_id": "tt37629310",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "kn",
+    "original_title": "ಸು ಫ್ರಮ್ ಸೊ",
+    "overview": "In a peaceful village full of joy, laughter, and vibrant life, everything seems perfect—until one day, the devil arrives. What follows is a hilarious chain of events that flips the entire village upside down!",
+    "popularity": 0.6985,
+    "poster_path": "/eFI5DOq5b9D2vitCW7EY8RXxygf.jpg",
+    "production_companies": [
+      {
+        "id": 183595,
+        "logo_path": null,
+        "name": "Lighter Buddha Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2025-07-25",
+    "revenue": 0,
+    "runtime": 135,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Kannada",
+        "iso_639_1": "kn",
+        "name": "ಕನ್ನಡ"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Su from So",
+    "video": false,
+    "vote_average": 7.444,
+    "vote_count": 27
+  }
+}

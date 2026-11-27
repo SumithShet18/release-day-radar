@@ -1,0 +1,13 @@
+step,source_name,url,http_status,format,access_timestamp_utc,notes
+07_youtube,YouTube Data API v3,https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=NHk7scrb_9I&order=time,200,JSON,2026-11-26T16:53:31+00:00,paginated comments (time) for F01
+07_youtube,YouTube Data API v3,https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=qeVfT2iLiu0&order=time,200,JSON,2026-11-26T16:53:31+00:00,paginated comments (time) for F02
+07_youtube,YouTube Data API v3,https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=77vRyWNqZjM&order=time,200,JSON,2026-11-26T16:53:31+00:00,paginated comments (time) for F03
+07_youtube,YouTube Data API v3,https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=zHiKFSBO_JE&order=time,200,JSON,2026-11-26T16:53:31+00:00,paginated comments (time) for F04
+07_youtube,YouTube Data API v3,https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=BKOVzHcjEIo&order=time,200,JSON,2026-11-26T16:53:31+00:00,paginated comments (time) for F05
+07_youtube,YouTube Data API v3,https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=9r-tT5IN0vg&order=time,200,JSON,2026-11-26T16:53:31+00:00,paginated comments (time) for F06
+07_youtube,YouTube Data API v3,https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=sJwaiRN-rvc&order=time,200,JSON,2026-11-26T16:53:31+00:00,paginated comments (time) for F07
+07_youtube,YouTube Data API v3,https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=BAk5ZCoTWY8&order=time,200,JSON,2026-11-26T16:53:31+00:00,paginated comments (time) for F08
+07_youtube,YouTube Data API v3,https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=AZGfCK1yTTI&order=time,200,JSON,2026-11-26T16:53:31+00:00,paginated comments (time) for F09
+07_youtube,YouTube Data API v3,https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=PGqltBCo6cU&order=time,200,JSON,2026-11-26T16:53:31+00:00,paginated comments (time) for F10
+07_youtube,YouTube Data API v3,https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=qIBZlbJ7NUE&order=time,200,JSON,2026-11-26T16:53:31+00:00,paginated comments (time) for F11
+07_youtube,YouTube Data API v3,https://www.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=Fe11GLdTL5k&order=time,200,JSON,2026-11-26T16:53:31+00:00,paginated comments (time) for F12

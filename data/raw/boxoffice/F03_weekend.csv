@@ -1,0 +1,4 @@
+film_id,day_index,day_label,date,india_net_cr,source_url,access_date,extraction_note
+F03,1,Fri,2025-02-14,31.0,https://www.sacnilk.com/movie/Chaava_2024,2026-11-26,Sacnilk All Language India net; Fri-Sun; Friday release 2025-02-14 = Days 1-3
+F03,2,Sat,2025-02-15,37.0,https://www.sacnilk.com/movie/Chaava_2024,2026-11-26,Sacnilk All Language India net; Fri-Sun; Friday release 2025-02-14 = Days 1-3
+F03,3,Sun,2025-02-16,48.5,https://www.sacnilk.com/movie/Chaava_2024,2026-11-26,Sacnilk All Language India net; Fri-Sun; Friday release 2025-02-14 = Days 1-3

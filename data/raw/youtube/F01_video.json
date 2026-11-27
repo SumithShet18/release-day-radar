@@ -1,0 +1,99 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "vsdc8UZqcUocVNdh8y9yIxvVHNk",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "04D4jemMFjLKaTjnb-h921MDNKU",
+      "id": "NHk7scrb_9I",
+      "snippet": {
+        "publishedAt": "2026-03-07T05:31:00Z",
+        "channelId": "UCcXQd6kHKm0b41x8zMVMmMg",
+        "title": "Dhurandhar The Revenge Official Hindi Trailer | Ranveer S | Aditya D | Roaring In Cinemas Now",
+        "description": "Ab Pakistan ka mustakbil, Hindustan tay karega\nDhurandhar The Revenge Trailer Out Now.  Book Now for Paid Previews on 18th March only.\n\nReleasing worldwide on 19 March, on Gudi Padwa, Ugadi, and Eid.\n\nJio Studios presents\nA B62 Studios Production\n\nAn Aditya Dhar Film\nDHURANDHAR THE REVENGE \n\nWritten, Directed and Produced by Aditya Dhar\nProduced by Jyoti Deshpande\nProduced by Lokesh Dhar\n\nTrailer Scored, Composed and Produced by Shashwat Sachdev\n\nAri Ari Song Credits: \nComposed, Arranged and Programmed by Shashwat Sachdev\nVocals: Navtej Singh Rehal (Bombay Rockers), Khan Saab, Jasmine Sandlas & Sudhir Yaduvanshi\nRap Performed and written by Reble, Token \nLyrics by Irshad Kamil, Bombay Rockers\nScore Producer Adam Lucas\nMusic Supervisor: Adarsh Vishwakarma\n\nDirector of Photography - Vikash Nowlakha\nEditor: Shivkumar V. Panicker\nMusic and Background Score: Shashwat Sachdev\nCasting Director: Mukesh Chhabra, CSA\nExecutive Producer: Rahul H. Gandhi\nCharacter & Prosthetics Designer: Preetisheel Singh D’Souza\nSound Designer: Bishwadeep Chatterjee\nCostume Designer: Smriti Chauhan\nAction Directors: Aejaz Gulab, Sea Young Oh, Yannick Ben, Ramazan Bulut\nChoreographer: Vijay Ganguly\nAdditional Screenplay: Shivkumar V. Panicker, Ojas Gautam\nAdditional Production Designer: Rupin Suchak\nAssociate Director & Second Unit Director: Rohun Rege\nChief Assistant Director: Sameer Sadhwani\nDirector’s Assistant: Ojas Gautam\nCreative Producer: Aarsh Vora\nAssistant Producer: Shweta Vora\nLine Producer: Naseer Ahmed Khan\nResearch Consultant: Aditya Raj Kaul, Dibya S.\nAssociate Editor: Sumit Dhole, Juhi Gopalakrishnan\nMarketing Manager: Chelsea Gupta\nProduction Sound Mixers: Manas Bal, Prabal Pradhan\nPost Producer: Gautmik\nRe-Recording Mixer: Justin Jose K (CAS)\nVFX Supervisor: Dhruti Ranjan Sahoo\nVFX Studios: Envision VFX, Philm CGI, Redefine, R2 VFX\nDI Studio: Redefine\nDI Colourist: Ashirwad Hadkar (ISC)\nDigital Agency: White Rivers Media\nPR Agency: Communique Film PR\nMarketing Agency: MAX Marketing Ltd\nTeaser and Trailer Editor: Ojas Gautam\nDubbing & Localization: Annapurna Studios\nVisual Promotion: Jayesh Shikarkhane & Team\nPublicity Design: Ma & Th (Marching Ants & Trigger Happy)\n\nJio Studios Team\nCOO & CFO: Priyanka Chaudhary\nCEO Production and Distribution: Deepak Sharma\nChief Legal Officer: Dipti Kotak\nPR Head: Amita Naidu\n\nDhurandhar The Revenge introduces Jaskirat Singh Rangi, tracing the chain of events that compel him to become Hamza Ali Mazari, and follows his rise as he operates deep inside Pakistan. The film is set to return this time in Hindi, Telugu, Tamil, Kannada and Malayalam.\n\n19 March 2026\nIn Cinemas Worldwide\nA Jio Studios Release",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NHk7scrb_9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NHk7scrb_9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NHk7scrb_9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NHk7scrb_9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NHk7scrb_9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/NHk7scrb_9I/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "JioStudios",
+        "tags": [
+          "Jio Studios",
+          "Jio Cinema",
+          "Jio Saavn",
+          "Jio TV",
+          "Dhurandhar",
+          "Aditya Dhar",
+          "Ranveer Singh",
+          "Sanjay Dutt",
+          "Akshaye Khanna",
+          "R. Madhavan",
+          "Arjun Rampal",
+          "Sara Arjun",
+          "Shashwat Sachdev",
+          "Revenge",
+          "Hindi Film Trailer",
+          "Hindi Film Teaser",
+          "Blockbuster Hindi Film",
+          "Dhurandhar 2 Teaser",
+          "Dhurandhar 2",
+          "Bollywood Film",
+          "T-Series",
+          "Dhurandhar The Revenge",
+          "March 19",
+          "Dhurandhar Trailer",
+          "Dhurandhar 2 Trailer",
+          "Dhurandhar The Revenge Trailer",
+          "Bollywood Trailer",
+          "Movie Trailer",
+          "Popular Movie Trailer"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Dhurandhar The Revenge Official Hindi Trailer | Ranveer S | Aditya D | Roaring In Cinemas Now",
+          "description": "Ab Pakistan ka mustakbil, Hindustan tay karega\nDhurandhar The Revenge Trailer Out Now.  Book Now for Paid Previews on 18th March only.\n\nReleasing worldwide on 19 March, on Gudi Padwa, Ugadi, and Eid.\n\nJio Studios presents\nA B62 Studios Production\n\nAn Aditya Dhar Film\nDHURANDHAR THE REVENGE \n\nWritten, Directed and Produced by Aditya Dhar\nProduced by Jyoti Deshpande\nProduced by Lokesh Dhar\n\nTrailer Scored, Composed and Produced by Shashwat Sachdev\n\nAri Ari Song Credits: \nComposed, Arranged and Programmed by Shashwat Sachdev\nVocals: Navtej Singh Rehal (Bombay Rockers), Khan Saab, Jasmine Sandlas & Sudhir Yaduvanshi\nRap Performed and written by Reble, Token \nLyrics by Irshad Kamil, Bombay Rockers\nScore Producer Adam Lucas\nMusic Supervisor: Adarsh Vishwakarma\n\nDirector of Photography - Vikash Nowlakha\nEditor: Shivkumar V. Panicker\nMusic and Background Score: Shashwat Sachdev\nCasting Director: Mukesh Chhabra, CSA\nExecutive Producer: Rahul H. Gandhi\nCharacter & Prosthetics Designer: Preetisheel Singh D’Souza\nSound Designer: Bishwadeep Chatterjee\nCostume Designer: Smriti Chauhan\nAction Directors: Aejaz Gulab, Sea Young Oh, Yannick Ben, Ramazan Bulut\nChoreographer: Vijay Ganguly\nAdditional Screenplay: Shivkumar V. Panicker, Ojas Gautam\nAdditional Production Designer: Rupin Suchak\nAssociate Director & Second Unit Director: Rohun Rege\nChief Assistant Director: Sameer Sadhwani\nDirector’s Assistant: Ojas Gautam\nCreative Producer: Aarsh Vora\nAssistant Producer: Shweta Vora\nLine Producer: Naseer Ahmed Khan\nResearch Consultant: Aditya Raj Kaul, Dibya S.\nAssociate Editor: Sumit Dhole, Juhi Gopalakrishnan\nMarketing Manager: Chelsea Gupta\nProduction Sound Mixers: Manas Bal, Prabal Pradhan\nPost Producer: Gautmik\nRe-Recording Mixer: Justin Jose K (CAS)\nVFX Supervisor: Dhruti Ranjan Sahoo\nVFX Studios: Envision VFX, Philm CGI, Redefine, R2 VFX\nDI Studio: Redefine\nDI Colourist: Ashirwad Hadkar (ISC)\nDigital Agency: White Rivers Media\nPR Agency: Communique Film PR\nMarketing Agency: MAX Marketing Ltd\nTeaser and Trailer Editor: Ojas Gautam\nDubbing & Localization: Annapurna Studios\nVisual Promotion: Jayesh Shikarkhane & Team\nPublicity Design: Ma & Th (Marching Ants & Trigger Happy)\n\nJio Studios Team\nCOO & CFO: Priyanka Chaudhary\nCEO Production and Distribution: Deepak Sharma\nChief Legal Officer: Dipti Kotak\nPR Head: Amita Naidu\n\nDhurandhar The Revenge introduces Jaskirat Singh Rangi, tracing the chain of events that compel him to become Hamza Ali Mazari, and follows his rise as he operates deep inside Pakistan. The film is set to return this time in Hindi, Telugu, Tamil, Kannada and Malayalam.\n\n19 March 2026\nIn Cinemas Worldwide\nA Jio Studios Release"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "93586342",
+        "likeCount": "1327759",
+        "favoriteCount": "0",
+        "commentCount": "67767"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

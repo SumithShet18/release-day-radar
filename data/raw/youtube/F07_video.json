@@ -1,0 +1,102 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "T4eXKfCnHubfSNC2THgnQmPBp-Q",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "Ur0eEynPGzjyKm7aagOKqoASlYM",
+      "id": "sJwaiRN-rvc",
+      "snippet": {
+        "publishedAt": "2026-08-08T13:31:16Z",
+        "channelId": "UC3DOgauBYLQQXdH1siGjfpw",
+        "title": "Toxic Official Kannada Trailer | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations",
+        "description": "Toxic: A Fairy Tale for Grown-Ups Official Trailer Out Now \n\n#Toxic In Cinemas Worldwide from 26 August 2026\n#ToxicTheMovie #Toxic #ToxicTeaser #DaddyIsHome #ToxicTheMovie\nCAST: Yash, Nayanthara, Kiara Advani, Tara Sutaria, Rukmini Vasanth, Huma Qureshi\nCREW:\nDirector of Photography: Rajeev Ravi\nMusic: Ravi Basrur, Vishal Mishra, Tanishk Bagchi \nProduction Designer: T. P. Abid\nEditor: Ujwal Kulkarni\nSound Designer: Kunal Sharma\nAssociate Producers: Sandeep Sadashiva, Prashant Dileep Hardikar\nAction Directors: J. J. Perry, Anbariv, Kecha Khamphakdee, Amrit Singh\nArt Director (Bengaluru): Mohan B. Kere\nArt Director: Sandeep G. Sharma\nExecutive Producer: M. K. Subramanya\nKannada Dialogues: Raaghav Vinay\nDirectors of Choreography: Ganesh Acharya, Imran Sardhariya, A. Harsha\nFirst Assistant Director: Rao Suhaib Khan\nScript Supervisor: Doyel Hargunaney\nLine Producer: Akshay Mavle\nCostume Designers: Neha R. Bajaj, Saniya Sardhariya (Yash)\nHair Designer: Darshan Yewalekar\nMake-up & Prosthetics: Shipra Singh Acharya\nPost Production: The Post Co.\nRe-recording Mixer: Sreejesh Nair\nMusic Producer: Ravi Basrur, Chethan Handattu, Pavan Basrur, Jagadish Venky\nRBM Composing Team: Santhosh Venky, Airaa Udupi, Rohit Siddappa\nTrumpet Live: Manju Bajanthri Devara Hosapete & Team\nRBM Studio Coordinators:\nShivakumar, Nagaprakash Kota, Prakash Kumar, Krishna Basrur, Vijay Basrur\nDI Colorist: Jayadev Tiruveaipati\nDI: Redefine\nVFX: DNEG\nPublicity Design: Kabilan Chelliah\nVisual Promotion: Ruben Trailer House\nTrailer Edited By Swaraj Patrimath\n\nMusic Credits: \n\nTrailer background Music: Ghost (2WEI Remix)\nWritten by: Christian Vorlander/Simon Heeger/Marvin Kucklack/Hermann Schepetkov\nPerformed By: Marvin Brooks                                 \nCourtesy of: Position Music\nPublished by: Turnkey Music & Publishing on behalf of Kobalt Music.\nMusic licensed by: Chain Reactor Music and Media on behalf of Position Music and Kobalt Music\nWritten by: Yash & Geetu Mohandas\nDirected by: Geetu Mohandas\nProduced by: KVN Productions and Monster Mind Creations\n_____________________________________________________________\n\nFollow KVN Productions\nInstagram : https://www.instagram.com/kvn.productions/\nX : https://x.com/KvnProductions\nIn Association with Divo:\nInstagram : https://www.instagram.com/divomusicofficial/\nX : https://x.com/divomovies\n#KVNPRODUCTIONS #Yash #ToxicTheMovie #ToxicFairytale #RockingStar #GeetuMohandas #Nayanthara #KiaraAdvani #TaraSutaria #HumaQureshi #RukminiVasanth #ToxicTrailer #ToxicMovieTrailer #RaviBasrur #MonsterMindCreations",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sJwaiRN-rvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sJwaiRN-rvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sJwaiRN-rvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sJwaiRN-rvc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sJwaiRN-rvc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/sJwaiRN-rvc/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "KVN PRODUCTIONS",
+        "tags": [
+          "KVN Production",
+          "KVN",
+          "KVN Movies",
+          "Toxic",
+          "Yash",
+          "KD",
+          "Dhruva Sarja",
+          "Toxic Trailer",
+          "Toxic Movie",
+          "Toxic Yash",
+          "Rocking Star Yash",
+          "Yash New Movie",
+          "KVN Productions",
+          "Monster Mind Creations",
+          "Geetu Mohandas",
+          "Ravi Basrur",
+          "Kiara Advani",
+          "Nayanthara",
+          "Huma Qureshi",
+          "Tara Sutaria",
+          "Rukmini Vasanth",
+          "Rocky Bhai",
+          "Yash Movie",
+          "Toxic Update",
+          "Toxic A Fairy Tale",
+          "Toxic New Movie",
+          "Toxic Movie Trailer",
+          "Toxic Trailer Kannada",
+          "Toxic Kannada Trailer",
+          "Yash Movie Trailer",
+          "Yash Toxic Movie Trailer",
+          "toxic"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Toxic Official Kannada Trailer | Rocking Star Yash | Geetu Mohandas | KVN | Monster Mind Creations",
+          "description": "Toxic: A Fairy Tale for Grown-Ups Official Trailer Out Now \n\n#Toxic In Cinemas Worldwide from 26 August 2026\n#ToxicTheMovie #Toxic #ToxicTeaser #DaddyIsHome #ToxicTheMovie\nCAST: Yash, Nayanthara, Kiara Advani, Tara Sutaria, Rukmini Vasanth, Huma Qureshi\nCREW:\nDirector of Photography: Rajeev Ravi\nMusic: Ravi Basrur, Vishal Mishra, Tanishk Bagchi \nProduction Designer: T. P. Abid\nEditor: Ujwal Kulkarni\nSound Designer: Kunal Sharma\nAssociate Producers: Sandeep Sadashiva, Prashant Dileep Hardikar\nAction Directors: J. J. Perry, Anbariv, Kecha Khamphakdee, Amrit Singh\nArt Director (Bengaluru): Mohan B. Kere\nArt Director: Sandeep G. Sharma\nExecutive Producer: M. K. Subramanya\nKannada Dialogues: Raaghav Vinay\nDirectors of Choreography: Ganesh Acharya, Imran Sardhariya, A. Harsha\nFirst Assistant Director: Rao Suhaib Khan\nScript Supervisor: Doyel Hargunaney\nLine Producer: Akshay Mavle\nCostume Designers: Neha R. Bajaj, Saniya Sardhariya (Yash)\nHair Designer: Darshan Yewalekar\nMake-up & Prosthetics: Shipra Singh Acharya\nPost Production: The Post Co.\nRe-recording Mixer: Sreejesh Nair\nMusic Producer: Ravi Basrur, Chethan Handattu, Pavan Basrur, Jagadish Venky\nRBM Composing Team: Santhosh Venky, Airaa Udupi, Rohit Siddappa\nTrumpet Live: Manju Bajanthri Devara Hosapete & Team\nRBM Studio Coordinators:\nShivakumar, Nagaprakash Kota, Prakash Kumar, Krishna Basrur, Vijay Basrur\nDI Colorist: Jayadev Tiruveaipati\nDI: Redefine\nVFX: DNEG\nPublicity Design: Kabilan Chelliah\nVisual Promotion: Ruben Trailer House\nTrailer Edited By Swaraj Patrimath\n\nMusic Credits: \n\nTrailer background Music: Ghost (2WEI Remix)\nWritten by: Christian Vorlander/Simon Heeger/Marvin Kucklack/Hermann Schepetkov\nPerformed By: Marvin Brooks                                 \nCourtesy of: Position Music\nPublished by: Turnkey Music & Publishing on behalf of Kobalt Music.\nMusic licensed by: Chain Reactor Music and Media on behalf of Position Music and Kobalt Music\nWritten by: Yash & Geetu Mohandas\nDirected by: Geetu Mohandas\nProduced by: KVN Productions and Monster Mind Creations\n_____________________________________________________________\n\nFollow KVN Productions\nInstagram : https://www.instagram.com/kvn.productions/\nX : https://x.com/KvnProductions\nIn Association with Divo:\nInstagram : https://www.instagram.com/divomusicofficial/\nX : https://x.com/divomovies\n#KVNPRODUCTIONS #Yash #ToxicTheMovie #ToxicFairytale #RockingStar #GeetuMohandas #Nayanthara #KiaraAdvani #TaraSutaria #HumaQureshi #RukminiVasanth #ToxicTrailer #ToxicMovieTrailer #RaviBasrur #MonsterMindCreations"
+        },
+        "defaultAudioLanguage": "kn"
+      },
+      "statistics": {
+        "viewCount": "14118779",
+        "likeCount": "279619",
+        "favoriteCount": "0",
+        "commentCount": "9901"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

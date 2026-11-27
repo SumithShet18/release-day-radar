@@ -1,0 +1,90 @@
+{
+  "film_id": "F06",
+  "resolved_query": "Saiyaara",
+  "search_url": "https://api.themoviedb.org/3/search/movie",
+  "details_url": "https://api.themoviedb.org/3/movie/1241634",
+  "fetched_at_utc": "2026-11-26T16:32:58+00:00",
+  "search_response": {
+    "adult": false,
+    "backdrop_path": "/mguy0nefEUY7NKruffpLO3Stj3d.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      10402
+    ],
+    "id": 1241634,
+    "title": "Saiyaara",
+    "original_language": "hi",
+    "original_title": "सैयारा",
+    "overview": "Two artistic souls find harmony through music despite their contrasting worlds. As feelings deepen, age and circumstances challenge their undeniable bond.",
+    "popularity": 3.3926,
+    "poster_path": "/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
+    "release_date": "2025-07-18",
+    "softcore": false,
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 163
+  },
+  "details_response": {
+    "adult": false,
+    "backdrop_path": "/mguy0nefEUY7NKruffpLO3Stj3d.jpg",
+    "belongs_to_collection": null,
+    "budget": 5500000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      }
+    ],
+    "homepage": "",
+    "id": 1241634,
+    "imdb_id": "tt28037987",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "सैयारा",
+    "overview": "Two artistic souls find harmony through music despite their contrasting worlds. As feelings deepen, age and circumstances challenge their undeniable bond.",
+    "popularity": 3.3926,
+    "poster_path": "/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
+    "production_companies": [
+      {
+        "id": 1569,
+        "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+        "name": "Yash Raj Films",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2025-07-18",
+    "revenue": 63539300,
+    "runtime": 150,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिंदी"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Saiyaara",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 163
+  }
+}

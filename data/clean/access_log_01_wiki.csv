@@ -1,0 +1,13 @@
+step,source_name,url,http_status,format,access_timestamp_utc,notes
+01_wiki,Wikipedia,https://en.wikipedia.org/wiki/Dhurandhar:_The_Revenge,200,HTML,2026-11-26T13:59:06+00:00,snapshot saved
+01_wiki,Wikipedia,https://en.wikipedia.org/wiki/Coolie_(2025_film),200,HTML,2026-11-26T13:59:06+00:00,snapshot saved
+01_wiki,Wikipedia,https://en.wikipedia.org/wiki/Chhaava,200,HTML,2026-11-26T13:59:06+00:00,snapshot saved
+01_wiki,Wikipedia,https://en.wikipedia.org/wiki/Game_Changer_(film),200,HTML,2026-11-26T13:59:06+00:00,snapshot saved
+01_wiki,Wikipedia,https://en.wikipedia.org/wiki/Dhurandhar,200,HTML,2026-11-26T13:59:06+00:00,snapshot saved
+01_wiki,Wikipedia,https://en.wikipedia.org/wiki/Saiyaara,200,HTML,2026-11-26T13:59:06+00:00,infobox not found
+01_wiki,Wikipedia,https://en.wikipedia.org/wiki/Toxic_(2026_film),200,HTML,2026-11-26T13:59:06+00:00,snapshot saved
+01_wiki,Wikipedia,https://en.wikipedia.org/wiki/Sikandar_(2025_film),200,HTML,2026-11-26T13:59:06+00:00,snapshot saved
+01_wiki,Wikipedia,https://en.wikipedia.org/wiki/Border_2,200,HTML,2026-11-26T13:59:06+00:00,snapshot saved
+01_wiki,Wikipedia,https://en.wikipedia.org/wiki/L2:_Empuraan,200,HTML,2026-11-26T13:59:06+00:00,snapshot saved
+01_wiki,Wikipedia,https://en.wikipedia.org/wiki/Dragon_(2025_film),200,HTML,2026-11-26T13:59:06+00:00,snapshot saved
+01_wiki,Wikipedia,https://en.wikipedia.org/wiki/Su_From_So,200,HTML,2026-11-26T13:59:06+00:00,snapshot saved

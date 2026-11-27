@@ -1,0 +1,106 @@
+{
+  "film_id": "F01",
+  "resolved_query": "Dhurandhar: The Revenge",
+  "search_url": "https://api.themoviedb.org/3/search/movie",
+  "details_url": "https://api.themoviedb.org/3/movie/1582770",
+  "fetched_at_utc": "2026-11-26T16:32:38+00:00",
+  "search_response": {
+    "adult": false,
+    "backdrop_path": "/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 1582770,
+    "title": "Dhurandhar: The Revenge",
+    "original_language": "hi",
+    "original_title": "धुरंधर: द रिवेंज",
+    "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+    "popularity": 8.4878,
+    "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+    "release_date": "2026-03-18",
+    "softcore": false,
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 182
+  },
+  "details_response": {
+    "adult": false,
+    "backdrop_path": "/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
+    "belongs_to_collection": {
+      "id": 1628043,
+      "name": "Dhurandhar Collection",
+      "poster_path": "/r4w2Ps0QN9wzMHDepRoj4H7tAM.jpg",
+      "backdrop_path": "/4Xv36ZwubtUn6JlIKoKDdhZj565.jpg"
+    },
+    "budget": 14330000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 1582770,
+    "imdb_id": "tt39139925",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "धुरंधर: द रिवेंज",
+    "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+    "popularity": 8.4878,
+    "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+    "production_companies": [
+      {
+        "id": 115477,
+        "logo_path": "/6CkBjiSlfAJFaMjwB44ILbOhFuV.png",
+        "name": "Jio Studios",
+        "origin_country": "IN"
+      },
+      {
+        "id": 212774,
+        "logo_path": "/fZfwgrp3ZlpU6SGy5ffuBYpEuOS.png",
+        "name": "B62 Studios",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2026-03-18",
+    "revenue": 152900759,
+    "runtime": 235,
+    "softcore": false,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिंदी"
+      },
+      {
+        "english_name": "Punjabi",
+        "iso_639_1": "pa",
+        "name": "ਪੰਜਾਬੀ"
+      }
+    ],
+    "status": "Released",
+    "tagline": "The Story of the Unknown Men Unfolds.",
+    "title": "Dhurandhar: The Revenge",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 182
+  }
+}

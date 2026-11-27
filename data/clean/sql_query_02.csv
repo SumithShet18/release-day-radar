@@ -1,0 +1,13 @@
+film_id,canonical_title,first_7d_comments,comment_rank,fri_sun_india_net_cr,boxoffice_rank,screen_rule_outcome
+F07,Toxic,5343,1,75.35,8,FALSE_POSITIVE (Over-Indexed Hype)
+F04,Game Changer,5215,2,88.5,6,TRUE_POSITIVE (Add Screens Accurate)
+F09,Border 2,4936,3,121.0,3,TRUE_POSITIVE (Add Screens Accurate)
+F11,Dragon,4201,4,30.05,11,FALSE_POSITIVE (Over-Indexed Hype)
+F02,Coolie,3995,5,129.5,2,TRUE_POSITIVE (Add Screens Accurate)
+F10,L2: Empuraan,3596,6,38.0,10,FALSE_POSITIVE (Over-Indexed Hype)
+F12,Su From So,1053,7,6.45,12,TRUE_NEGATIVE (Hold/Cut Accurate)
+F08,Sikandar,995,8,74.5,9,TRUE_NEGATIVE (Hold/Cut Accurate)
+F03,Chhaava,239,9,116.5,4,FALSE_NEGATIVE (Missed Winner)
+F01,Dhurandhar: The Revenge,230,10,308.57,1,FALSE_NEGATIVE (Missed Winner)
+F06,Saiyaara,164,11,83.25,7,TRUE_NEGATIVE (Hold/Cut Accurate)
+F05,Dhurandhar,163,12,103.0,5,FALSE_NEGATIVE (Missed Winner)

@@ -1,0 +1,88 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "sJhGcG1eiQFomQP7bganeNOjzbQ",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "SwbieFudf1whJ9fbHXcbDMy3n4Q",
+      "id": "BAk5ZCoTWY8",
+      "snippet": {
+        "publishedAt": "2025-03-23T11:45:34Z",
+        "channelId": "UC7bd9i-yWpUOhvC72fATxrQ",
+        "title": "SIKANDAR Official Trailer - Salman Khan, Rashmika | Sajid Nadiadwala | A.R. Murugadoss | 30th March",
+        "description": "Presenting the Official Trailer of Sikandar! 🔥 \n\nSalman Khan As Sanjay Rajkot \nRashmika Mandanna As Saisri\nSathyaraj As Minister Pradhan \n\nProduced by Sajid Nadiadwala \n\nDirected by A.R. Murugadoss \n\nA Nadiadwala Grandson Entertainment & Salman Film Khan Films Production\n\nMusic on Zee Music Company \nMusic By Pritam\nBackground Music Score By Santosh Narayanan \n\nSikandar Releases in cinemas Worldwide on 30th March 2025 \n\nGet an exclusive offer on tickets for shows on 30th March only. \nBook here -: https://link.district.in/DSTRKT/sikandartrailerlaunch \n\n#SalmanKhan #Sikandar #SikandarTrailer \n\n\nFollow Us On :\r\n\r\nFacebook: www.facebook.com/NGEMovies\r\nTwitter: www.twitter.com/NGEMovies\r\nInstagram: www.instagram.com/NadiadwalaGrandson\r\nYouTube: www.youtube.com/NadiadwalaGrandson\r\nSnapchat: NGEMovies",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BAk5ZCoTWY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BAk5ZCoTWY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BAk5ZCoTWY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BAk5ZCoTWY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BAk5ZCoTWY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NadiadwalaGrandson",
+        "tags": [
+          "salman khan",
+          "sikandar",
+          "beinghuman",
+          "sikandarfilm",
+          "sikandartrailer",
+          "sikandar trailer",
+          "sajid nadiadwala",
+          "nadiadwala grandson entertainment",
+          "nge",
+          "skf",
+          "rashmika mandanna",
+          "sathyaraj",
+          "kesari",
+          "kesari 2",
+          "kesari2",
+          "kesari 2 trailer",
+          "kunal kamra",
+          "thailand earthquake",
+          "ghajini",
+          "ar murugadoss",
+          "eid release",
+          "bhaijaan",
+          "salman bhai movie"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "SIKANDAR Official Trailer - Salman Khan, Rashmika | Sajid Nadiadwala | A.R. Murugadoss | 30th March",
+          "description": "Presenting the Official Trailer of Sikandar! 🔥 \n\nSalman Khan As Sanjay Rajkot \nRashmika Mandanna As Saisri\nSathyaraj As Minister Pradhan \n\nProduced by Sajid Nadiadwala \n\nDirected by A.R. Murugadoss \n\nA Nadiadwala Grandson Entertainment & Salman Film Khan Films Production\n\nMusic on Zee Music Company \nMusic By Pritam\nBackground Music Score By Santosh Narayanan \n\nSikandar Releases in cinemas Worldwide on 30th March 2025 \n\nGet an exclusive offer on tickets for shows on 30th March only. \nBook here -: https://link.district.in/DSTRKT/sikandartrailerlaunch \n\n#SalmanKhan #Sikandar #SikandarTrailer \n\n\nFollow Us On :\r\n\r\nFacebook: www.facebook.com/NGEMovies\r\nTwitter: www.twitter.com/NGEMovies\r\nInstagram: www.instagram.com/NadiadwalaGrandson\r\nYouTube: www.youtube.com/NadiadwalaGrandson\r\nSnapchat: NGEMovies"
+        },
+        "defaultAudioLanguage": "hi"
+      },
+      "statistics": {
+        "viewCount": "70813634",
+        "likeCount": "985406",
+        "favoriteCount": "0",
+        "commentCount": "80859"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
